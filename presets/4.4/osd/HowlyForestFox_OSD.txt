@@ -1,0 +1,37 @@
+#$ TITLE: HowlyForestFox_OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: osd
+#$ AUTHOR: HowlyForestFox
+#$ DESCRIPTION: TEST PRESET
+
+set osd_warn_bitmask = 90111
+set osd_rssi_alarm = 0
+set osd_link_quality_alarm = 0
+set osd_rssi_dbm_alarm = 0
+set osd_cap_alarm = 350
+set osd_tim1 = 1795
+set osd_vbat_pos = 323
+set osd_link_quality_pos = 2081
+set osd_rssi_dbm_pos = 2275
+set osd_rsnr_pos = 2307
+set osd_tim_1_pos = 2092
+set osd_tim_2_pos = 376
+set osd_throttle_pos = 2325
+set osd_vtx_channel_pos = 2101
+set osd_crosshairs_pos = 2286
+set osd_ah_pos = 142
+set osd_current_pos = 2355
+set osd_mah_drawn_pos = 2371
+set osd_wh_drawn_pos = 2403
+set osd_motor_diag_pos = 2292
+set osd_debug_pos = 162
+set osd_power_pos = 2388
+set osd_warnings_pos = 14441
+set osd_avg_cell_voltage_pos = 2339
+set osd_battery_usage_pos = 392
+set osd_flip_arrow_pos = 2062
+set osd_log_status_pos = 2124
+set osd_stat_bitmask = 538406
+set osd_canvas_height = 13
